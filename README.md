@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rust & Bash**
 
-- 💬 Ask me about **Linux, i3, Wolfram Language, Python and more**
+- 💬 Ask me about **Linux, i3, Wolfram Language, Python, Adobe Creative Cloud and more**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mipy1&label=Profile%20views&color=0e75b6&style=flat" alt="mipy1" /> </p>
 
