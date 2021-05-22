@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruby</h1>
-<h3 align="center">A</h3>
+<h3 align="center">A Human Inhabiting Earth</h3>
 She / Her
+
 - 🔭 I’m currently working on [mipnote](https://github.com/mipy1/mipnote)
 
 - 🌱 I’m currently learning **Rust, Bash, Linux**
