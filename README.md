@@ -12,7 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mipy1&label=Profile%20views&color=0e75b6&style=flat" alt="mipy1" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mipy1&show_icons=true&theme=gruvbox&locale=en" alt="mipy1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipy1&show_icons=true&locale=en&layout=compact" alt="mipy1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mipy1&show_icons=true&locale=en" alt="mipy1" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
