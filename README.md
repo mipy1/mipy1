@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruby</h1>
+<h1 align="center">Hi 🙋‍♀️, I'm Ruby</h1>
 <h3 align="center">A Human Inhabiting Earth</h3>
 🌈 She / Her
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rust & Bash**
 
-- 💬 Ask me about **Linux, i3, Wolfram Language, Python, Adobe Creative Cloud and more**
+- 💬 Ask me about **Linux, i3, Wolfram Language, Python, Adobe Creative Cloud, and more**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mipy1&label=Profile%20views&color=0e75b6&style=flat" alt="mipy1" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mipy1" alt="mipy1" /></a> </p>
