@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [mipnote](https://github.com/mipy1/mipnote)
+- 🔭 I’m currently working on [mipnote](https://github.com/mipy1/mipnote), as well as a whole bunch of stuff that I'm too scared to make public because I'm bad at coding
 
 - 🌱 I’m currently learning **Rust & Bash**
 
